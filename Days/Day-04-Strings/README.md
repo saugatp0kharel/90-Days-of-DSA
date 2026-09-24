@@ -2098,3 +2098,4 @@ What is its Space Complexity?
 ```
 
 so that I can gradually solve new DSA problems independently.
+<!-- Day 4 notes complete -->
