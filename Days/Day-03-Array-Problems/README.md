@@ -1667,7 +1667,7 @@ The goal of this repository is not only to store code.
 
 The goal is to understand:
 
-```text
+
 the problem
 the solution
 why it works
