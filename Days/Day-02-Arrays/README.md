@@ -1858,4 +1858,4 @@ I will start solving more real coding problems using arrays, including:
 
 This repository is part of my **90 Days of Data Structures and Algorithms** open-source learning journey.
 
-My goal is to learn DSA step by step, understand the reason behind every solution, practice coding problems, and create beginner-friendly notes that other students can also use.
+My goal is to learn DSA step by step, understand the reason behind every solution, practice coding problems, and create beginner-friendly notes that other students can also use.<!-- Day 2 notes complete -->
