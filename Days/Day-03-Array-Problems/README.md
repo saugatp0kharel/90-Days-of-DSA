@@ -1675,4 +1675,4 @@ Time Complexity
 Space Complexity
 ```
 
-and slowly become able to solve new DSA problems independently.                                                                                                                                                           
+and slowly become able to solve new DSA problems independently.                                                                                                                                                          <!- Day 3 notes complete ->
